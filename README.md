@@ -18,5 +18,8 @@ Here are some ideas to get you started:
 ---
 
 🧰 Toolbox
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+<br>
+<br>
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" height="50"/>
+
 ---
